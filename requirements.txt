@@ -1,0 +1,3 @@
+langchain
+pypdf
+pinecone-client
